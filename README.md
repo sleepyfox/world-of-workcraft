@@ -37,6 +37,8 @@ An evening a week, 7-9-ish TBC UK time on a day that works for everyone, plus an
 World of Warcraft: Azuremyst server
 Cost: I'm not charging anything for this, it's an experiment. Bring your own WoW subscription (less than a tenner a month).
 
+More game related details [here](game-stuff.md)
+
 ### Contact
 
 * Email: [sleepyfox](mailto://sleepyfox@gmail.com)
