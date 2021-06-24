@@ -15,9 +15,9 @@ The basic idea is that we come together to play cooperatively to succeed in in-g
 1. Don't be an ass
 2. See 1.
 
-Slightly more prosaically, I'm adopting this [Code of Conduct](https://opensource.google/conduct/) as a starting point. I'm more than willing for the group to adopt their own code-of-conduct by mutual agreement.
+Slightly more prosaically, I'm adopting this [Code of Conduct](https://opensource.google/conduct/) as a starting point. I'm more than willing for the group to adapt or adopt their own code-of-conduct by mutual agreement.
 
-We're a bunch of professionals, we treat each other with respect as a minimum. We're all here to learn, we all have different experiences and and have something to contribute. I certainly have plenty of ideas about this field, but I'd prefer the group to discuss and experiement rather than for it to be my own personal soap-box.
+We're a bunch of professionals, we treat each other with respect as a minimum. We're all here to learn, we all have different experiences and all have something to contribute. I certainly have plenty of ideas about this field, but I'd prefer the group to discuss and experiement rather than for it to be my own personal soap-box.
 
 ## Previous experience
 
