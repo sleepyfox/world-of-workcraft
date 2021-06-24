@@ -4,6 +4,8 @@
 
 WoW is free till level 20. Try it out. Create yourself a [Battle.net](https://eu.shop.battle.net/en-gb) account,go to 'World of Warcraft' under games and download the client for free.
 
+Server: EU/Azuremyst - Alliance 
+
 ## The plan
 
 We level to level 60 together in pairs, and do dungeons (5-player cooperative activities) in groups of five. This will prepare us for the primary objective of entering Castle Nathria, a 10-25 person raid. This requires good cooperation and communication skills, and an ability to retrospect on performance and improve continuously - a common challenge for business teams.
@@ -28,6 +30,24 @@ In much the same way that we have roles at work in a team, sales, marketing, fin
 * Healer
 
 Tanks are there to keep the focus of the boss, and mitrigate the bosses damage with their tough armour and shields.
-DPS (Damage Per Second) are there to deal damage to the boss, which will wear the boss down till it is eventually defeated.
-Healers are there to keep the tank or tanks alive while the DPS do their work. Occasionally they need to heal the DPS too, because there's always someone who stands in the fire!
+DPS (Damage Per Second) are there to deal damage to the boss, which will wear the boss down till it is eventually defeated. Melee DPS specialise in swords, spears and other hand-to-hand weapons. Ranged DPS specialise in bows, crossbows and spells.
+Healers are there to keep the tank or tanks alive while the DPS do their work, with ranged healing spells. Occasionally they need to heal the DPS too, because there's always someone who stands in the fire!
 
+## Classes 
+
+There are twelve playable classes (or jobs). Each class may have a number of roles that they can play, determined by their talent specialisation.
+
+* druid (tank/melee DPS/ranged DPS/healer)
+* death knight (tank/melee DPS)
+* demon hunter (tank/melee DPS)
+* hunter (ranged DPS)
+* mage (ranged DPS)
+* monk (tank/melee DPS/healer)
+* paladin (tank/melee DPS/healer)
+* priest (ranged DPS/healer)
+* rogue (melee DPS)
+* shaman (melee DPS/ranged DPS/healer)
+* warlock (ranged DPS)
+* warrior (tank/melee DPS)
+
+Each 10-person raid needs 1 or 2 tanks, 2 or 3 healers and 5 to 7 DPS, usually a mix of melee and ranged. Typically one of the melee DPS will need to swap to being a tank for certain boss encounters (called an 'off-tank'), and one of the ranged DPS may need to swap to healing (called an 'off-healer') or visa versa. For this reason those classes which offer more flexibility of role are more useful to the team. Think 'T-shaped' team members.
