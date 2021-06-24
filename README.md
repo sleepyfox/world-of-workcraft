@@ -31,6 +31,11 @@ This time around I'm less interested in execution, but more interested in how a 
 
 I'm proposing something similar. Bootstrap and continuously improve, using reflection and concensus-based decision making to drive progress as a group. If this sounds interesting, drop me a line.
 
+## Practicalities
+
+An evening a week, 7-9-ish TBC UK time on a day that works for everyone, plus an optional weekend afternoon slot, also TBC. 
+World of Warcraft: Azuremyst server
+
 ### Contact
 
 * Email: [sleepyfox](mailto://sleepyfox@gmail.com)
