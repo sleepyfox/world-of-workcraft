@@ -35,6 +35,7 @@ I'm proposing something similar. Bootstrap and continuously improve, using refle
 
 An evening a week, 7-9-ish TBC UK time on a day that works for everyone, plus an optional weekend afternoon slot, also TBC. 
 World of Warcraft: Azuremyst server
+Cost: I'm not charging anything for this, it's an experiment. Bring your own WoW subscription (less than a tenner a month).
 
 ### Contact
 
