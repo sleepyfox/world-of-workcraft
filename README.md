@@ -21,7 +21,7 @@ We're a bunch of professionals, we treat each other with respect as a minimum. W
 
 ## Previous experience
 
-Back in Wrath of the Lich King (a previous WoW expansion) I co-founded and was raid leader for a successful raiding guild on the Chamber of Aspects server. The guild was based around the central precept of being nice to one another, and helping each other out. This sounds like common sense, but the reality is that most guilds are run by 13-year olds (or at least seem that way), with toxic cronyism, inequitable work distribution, and all the rewards flowing to a privelidged few. This, perhaps, should not be surprising when viewed in juxtaposition with the rest of our society. 
+Back in Wrath of the Lich King (a previous WoW expansion) I co-founded and was raid leader for a successful raiding guild on the Chamber of Aspects server. The guild was based around the central precept of being nice to one another, and helping each other out. This sounds like common sense, but the reality is that most guilds are run by 13-year olds (or at least it seems that way), with toxic cronyism, inequitable work distribution, and all the rewards flowing to a privelidged few. This, perhaps, should not be surprising when viewed in juxtaposition with the rest of our society. 
 
 My observation is: we can do better.
 
