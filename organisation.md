@@ -10,3 +10,20 @@ In WoW,companies are called Guilds. Each guild is created by a guild leader, who
 > NOTE: You can move from guild to guild, but this will not enhance your reputation as time goes on. Sometimes the best thing to do is try to make your guild better and leave if that fails. Guilds will be more reluctant to invite you if you have the reputation of joining, taking what you need, and leaving for the next guild that has something better. 
 
 Sound familiar?
+
+I'm interested in getting a group to agree on how they set up their ~~company~~guild, covering such areas as:
+
+* How should the division of labour work?
+* What constitutes fair compensation?
+* Should certain members get more rewards than others?
+* Do we adopt pay for performance?
+* Who can recruit,and kick, members from the guild?
+* What should constitute the guild's code of conduct?
+* What punishments are appropriate for breaching that code of conduct?
+* Who decides the strategic vision?
+* How is the guild organised? e.g. is there a hierarchy?
+* If more people are available and want to participate in an activity than it allows, how are people chosen for the team? (like choosing amongst 8 people for a 5-a-side football game)
+
+These are not esoteric, philosophical decisions, they have real consequences, they affect members' lived experience of playing the game, and the fun that they get out of it. It may not be affecting a P&L, or peoples' pay packets, but it is a real effect nonetheless.
+
+How will you decide?
