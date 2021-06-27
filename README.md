@@ -29,7 +29,7 @@ I've done it not once, but twice before in the past. I like to say that all the 
 
 This time around I'm less interested in execution, but more interested in how a group can use self-reflection and continuous improvement to improve not their outputs, or workflow, but rather the system of work that they work in itself. In 1968 Doug Engelbart gave ['The mother of all demos'](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos) in which not only did he demonstrate forerunners of the mouse, windowing interfaces, hypertext and the world-wide-web, he showed how the Stanford Reasearch Institiute had build a system not only of invention, but also - arguably more importantly - to continuously refine and improve their engine of invention. 
 
-I'm proposing something similar. Bootstrap and continuously improve, using reflection and concensus-based decision making to drive progress as a group. If this sounds interesting, drop me a line.
+I'm proposing something similar. Bootstrap and continuously improve, using reflection and concensus-based decision making to drive progress as a group. The kinds of quesions that we'll be considering are outlined in the [organisation page](organisation.md). If this sounds interesting, drop me a line.
 
 ## Practicalities
 
