@@ -39,7 +39,7 @@ World of Warcraft: Azuremyst server, Alliance Faction.
 
 Cost: I'm not charging anything for this, it's an experiment. Bring your own WoW subscription (less than a tenner a month).
 
-More game related details [here](game-stuff.md)
+More game related details [here](game-stuff.md).
 
 ## Progress
 

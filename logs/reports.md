@@ -9,7 +9,7 @@
 
 ### Dungeon reports
 
-1. First dungeon report: Freehold
+1. First dungeon report: [Freehold](fox-2021-07-10.md)
 
 ### Legacy levelling dungeons progress (1/8)
 
