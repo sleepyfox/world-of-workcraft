@@ -41,6 +41,10 @@ Cost: I'm not charging anything for this, it's an experiment. Bring your own WoW
 
 More game related details [here](game-stuff.md)
 
+## Progress
+
+Details of the project's progress can be found in the [reports](logs/reports.md).
+
 ### Contact
 
 * Email: [sleepyfox](mailto://sleepyfox@gmail.com)
