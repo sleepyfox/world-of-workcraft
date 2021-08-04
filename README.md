@@ -1,4 +1,4 @@
-# World of Management
+# World of Work-Craft
 
 A [MMORPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)-flavoured exploration of management and leadership.
 
