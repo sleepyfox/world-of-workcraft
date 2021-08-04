@@ -14,9 +14,9 @@
 ### Legacy levelling dungeons progress (1/8)
 
 - [x] Freehold (10-50)
-- [ ] Atal'Dazar (10-50)
+- [x] Atal'Dazar (10-50)
 - [ ] The Underrot (25-50)
-- [ ] Waycrest Manor (25-50)
+- [x] Waycrest Manor (25-50)
 - [ ] The MOTHERLODE!! (30-50)
 - [ ] Tol Dagor (30-50)
 - [ ] Shrine of the Storm (35-50)
