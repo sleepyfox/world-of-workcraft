@@ -17,7 +17,7 @@
 - [x] Atal'Dazar (10-50)
 - [ ] The Underrot (25-50)
 - [x] Waycrest Manor (25-50)
-- [ ] The MOTHERLODE!! (30-50)
+- [x] The MOTHERLODE!! (30-50)
 - [ ] Tol Dagor (30-50)
 - [ ] Shrine of the Storm (35-50)
 - [ ] Temple of Sethraliss (35-50)
