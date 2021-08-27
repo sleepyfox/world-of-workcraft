@@ -4,6 +4,7 @@
 
 * [1st guild meeting report](fox-2021-07-07.md)
 * [2nd guild meeting report](fox-2021-07-14.md)
+* [7th guild meeting report](fox-2021-08-18.md)
 
 ## Guild dungeoneering progress
 
