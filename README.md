@@ -1,5 +1,7 @@
 # World of Work-Craft
 
+Documentation for [World of Workcraft](https://sleepyfox.github.io/world-of-workcraft/) site.
+
 A [MMORPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)-flavoured exploration of management and leadership.
 
 ## Hypothesis
