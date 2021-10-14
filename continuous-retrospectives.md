@@ -1,6 +1,6 @@
 # Continuous retrospectives
 
-TL,DR; Shortening the feedback cycle in software production is a good thing. 
+TL,DR; Analysis of team improvement in eSports shows that shortening the feedback cycle in software production is valuable. 
 
 ## Failure in software teams
 
