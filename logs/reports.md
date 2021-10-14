@@ -17,7 +17,7 @@
 
 - [x] Freehold (10-50)
 - [x] Atal'Dazar (10-50)
-- [ ] The Underrot (25-50)
+- [x] The Underrot (25-50)
 - [x] Waycrest Manor (25-50)
 - [x] The MOTHERLODE!! (30-50)
 - [x] Tol Dagor (30-50)
@@ -26,7 +26,7 @@
 
 ### Shadowlands levelling dungeons
 
-- [ ] The Necrotic Wake (50-60)
+- [x] The Necrotic Wake (50-60)
 - [ ] Plaguefall (53-60)
 - [ ] Mists of Tirna Scithe (55-60)
 - [ ] Halls of Atonement (57-60)
