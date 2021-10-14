@@ -1,5 +1,7 @@
 # Continuous retrospectives
 
+TL,DR; Shortening the feedback cycle in software production is a good thing. 
+
 ## Failure in software teams
 
 Remember an IT project that you've participated in in your past career. How long did the project run before it was declared a failure? In my experience this is typically months, if not years. Sometimes the project delivers, and if it is on-time and on-budget, it is declared a success. If not, it is a failure. For some projects they run on for months or years after delivery before it is even known whether they have actually succeeded or not. 
