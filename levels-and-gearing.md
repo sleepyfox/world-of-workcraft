@@ -31,3 +31,5 @@ Normal, Heroic and Mythic0 dungeons can be run as many times as you like. Raids 
 
 The good news is, this actually makes things pretty simple. There are many other things going on post- reaching level 60, covenants, soul-binds, conduits, legendaries, runecarving etc etc etc ...
 So just being able to ignore all this (at least in the beginning) makes the cognitive load on players much easier.
+
+Addendum: Korthia daily and Sanctum of Domination questline rewards are at the ilvl 200+ level, and upgradeable in a similar way to the Covenant questline gear rewards. This makes them the easiest way to bump your characters average item level quickly.
