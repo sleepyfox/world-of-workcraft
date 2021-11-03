@@ -14,7 +14,7 @@ The basic idea is that we come together to play cooperatively to succeed in in-g
 
 ## How
 
-Back in Wrath of the Lich King (a previous WoW expansion) I co-founded and was raid leader for a successful raiding guild on the Chamber of Aspects server. The guild was based around the central precept of being nice to one another, everyone being equals, and helping each other out. This sounds like common sense, but the reality is that most guilds are run by teenagers with toxic cronyism, inequitable work distribution, and all the rewards flowing to a privelidged few. This, perhaps, should not be surprising when viewed in juxtaposition with the rest of our society.
+Back in Wrath of the Lich King (a previous WoW expansion) I co-founded and was raid leader for a successful raiding guild on the Chamber of Aspects server. The guild was based around the central precept of being nice to one another, everyone being equals, and helping each other out. This sounds like common sense, but the reality is that most guilds are run by teenagers with toxic cronyism, inequitable work distribution, and all the rewards flowing to a privileged few. This, perhaps, should not be surprising when viewed in juxtaposition with the rest of our society.
 
 My observation is: we can do better.
 
