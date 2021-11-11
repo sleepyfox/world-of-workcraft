@@ -22,7 +22,7 @@
 - [x] The MOTHERLODE!! (30-50)
 - [x] Tol Dagor (30-50)
 - [x] Shrine of the Storm (35-50)
-- [ ] Temple of Sethraliss (35-50)
+- [x] Temple of Sethraliss (35-50)
 
 ### Shadowlands levelling dungeons
 
