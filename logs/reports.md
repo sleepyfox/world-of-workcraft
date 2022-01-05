@@ -27,13 +27,13 @@
 ### Shadowlands levelling dungeons
 
 - [x] The Necrotic Wake (50-60)
-- [ ] Plaguefall (53-60)
-- [ ] Mists of Tirna Scithe (55-60)
+- [x] Plaguefall (53-60)
+- [x] Mists of Tirna Scithe (55-60)
 - [ ] Halls of Atonement (57-60)
             
 ### Shadowlands level cap dungeons
                
 - [ ] Theater of Pain
-- [ ] De Other Side
+- [x] De Other Side
 - [ ] Spires of Ascension
 - [ ] Sanguine Depths
