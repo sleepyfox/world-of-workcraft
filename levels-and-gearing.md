@@ -18,10 +18,11 @@ The item level of loot has been increased by +26 in Patch 9.1's Season 2.
 
 This makes gearing for raiding much easier, as:
 
-* Normal level 60 dungeons require ilvl 144.
-* Heroic dungeons require ilvl 170. 
-* LFR (Looking for Raid) Castle Nathria needs ilvl 170. 
-* LFR Sanctum of Domination requires ilvl 195.
+* Normal level 60 dungeons require ilvl 144;
+* Heroic dungeons require ilvl 170;
+* LFR (Looking for Raid) Castle Nathria needs ilvl 170; 
+* LFR Sanctum of Domination requires ilvl 195;
+* LFR Sepulcher of the First Ones requires ilvl 220.
 
 This means that you can make (or buy from the Auction House) crafted items (ilvl 151) to help you get into normal dungeons, which will drop loot required to run heroic level 60 dungeons, which will get you into raids.
 
