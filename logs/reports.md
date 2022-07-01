@@ -1,5 +1,7 @@
 # Progress reports
 
+This is for the previous cohort on Retail WoW. For the current cohort on WoW Classic see [here](./reports-classic.md).
+
 ## Guild meeting reports
 
 * [1st guild meeting report](fox-2021-07-07.md)

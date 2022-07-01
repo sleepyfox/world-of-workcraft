@@ -6,7 +6,7 @@ A [MMORPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playi
 
 ## Hypothesis
 
-There is a lot we can learn about things like the managment of DAOs (Distributed Autonomous Organisations) and [Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership) by studying the creation and evolution of communities in MMOs. These communities are brought together by mutual purpose - in-game achievements, and are entirely volunteer driven - no one is paying a salary! The lack of explicit command and control (financial incentives) leaves the opportunity for alternative leadership strategies.
+There is a lot we can learn about things like the managment of distributed organisations and [Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership) by studying the creation and evolution of communities in MMOs. These communities are brought together by mutual purpose - in-game achievements, and are entirely volunteer driven - no one is paying a salary! The lack of explicit command and control (financial incentives) leaves the opportunity for alternative leadership strategies.
 
 Plus, it is a safe-to-fail environment to experiment in; nobody goes bankrupt if your organisation doesn't work!
 
@@ -30,7 +30,7 @@ We're a bunch of professionals, we treat each other with respect as a minimum. W
 
 We meet on Wednesday evenings, 7-9 UK time (20:00-22:00 server time). We occasionally gather ad-hoc on other days, sometimes we'll do a weekend evening event, but these are optional and organised by the team. This is a fairly low commitment for a MMO guild, but then we're professional adults and have families/other responsibilities. 
 
-World of Warcraft: Azuremyst server, Alliance Faction.
+World of Warcraft The Burning Crusade (TBC) Classic: Pyrewood Village server, Alliance faction.
 
 Cost: None, other than a World of Warcraft game subscription.
 
@@ -38,7 +38,8 @@ More game related details [here](game-stuff.md).
 
 ## Progress
 
-Details of the project's progress can be found in the [reports](logs/reports.md).
+Details of the project's previous progress can be found in the [reports](logs/reports.md).
+New reports for WoW Classic will be [here](logs/reports-classic.md).
 
 ## Join us
 
