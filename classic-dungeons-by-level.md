@@ -42,3 +42,22 @@
 | The Botanica	| 67 | 68 - 70 | Netherstorm |
 | The Mechanar	| 67 | 68 - 70 | Netherstorm |
 | Arcatraz	| 68 | 68 - 80 | Netherstorm |
+
+# Northrend dungeons by level
+
+| Utgarde Keep | 67 | 69-72 | Howling Fjord |
+| The Nexus | 67 | 69-73 | Borean Tundra |
+| Azjol-Nerub | 70 | 72-74 | Dragonblight |
+| Ahn'kahet: The Old Kingdom | 71 | 73-75 | Dragonblight |
+| Drak'Tharon Keep | 72 | 74-76 | Zul'Drak |
+| The Violet Hold | 73 | 75-77 | Dalaran |
+| Gundrak | 73 | 76-78 | Zul'Drak |
+| Halls of Stone | 73 | 77-79 | The Storm Peaks |
+| Halls of Lightning | 75 | 79-80 | The Storm Peaks |
+| The Oculus | 75 | 79-80 | Borean Tundra |
+| Utgarde Pinnacle | 79-80 | Howling Fjord |
+| The Culling of Stratholme | 75 | 79-80 | Caverns of Time |
+| The Forge of Souls | 78 | 79-80 | Icecrown |
+| Pit of Saron | 78 | 79-80 | Icecrown |
+| Halls of Reflection | 78 | 79-80 | Icecrown |
+| Trial of the Champion | 80 | 80 | Icecrown |
