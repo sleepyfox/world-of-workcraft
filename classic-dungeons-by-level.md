@@ -2,26 +2,26 @@
 
 | Dungeon | Min level | Level range | Zone |
 | ------- | --------- | ----------- | ---- |
-| Ragefire Chasm |  10 |    13-18 |
-| Wailing Caverns | 10 |    15-25 |
-| The Deadmines |   10 |    18-23 |
-| Shadowfang Keep | 14 |    22-30 |
-| Blackfathom Deeps |   15 |    20-30 |
-| The Stockade |    15 |    22-30 |
-| Gnomeregan    | 19 |    24-34 |
-| Razorfen Kraul |  25 |    30-40 |
-| Scarlet Monastery |   21 |    26-45 |
-| Razorfen Downs |  35 |    40-50 |
-| Uldaman |  30 |    35-45 |
-| Zul'Farrak |   39 |    44-54 |
-| Maraudon  | 30 |    46-55 |
-| Temple of Atal'Hakkar | 45 | 55-60 |
-| Blackrock Depths |    48 |    52-60 |
-| Lower Blackrock Spire | 48 | 55-60 |
-| Upper Blackrock Spire | 48 | 55-60 |
-| Dire Maul |	48 |	55-60 |
-| Scholomance |	48 |	58-60 |
-| Stratholme |	48 |	58-60 |
+| Ragefire Chasm |  10 |    13-18 | Ogrimmar |
+| Wailing Caverns | 10 |    15-25 | The Barrens |
+| The Deadmines |   10 |    18-23 | Westfall |
+| Shadowfang Keep | 14 |    22-30 | Silverpine Forest |
+| Blackfathom Deeps |   15 |    20-30 | Ashenvale |
+| The Stockade |    15 |    22-30 | Stormwind |
+| Gnomeregan    | 19 |    24-34 | Dun Morogh |
+| Razorfen Kraul |  25 |    30-40 | The Barrens |
+| Scarlet Monastery |   21 |    26-45 | Tirisfal Glades |
+| Razorfen Downs |  35 |    40-50 | Thousand Needles |
+| Uldaman |  30 |    35-45 | Badlands |
+| Zul'Farrak |   39 |    44-54 | Tanaris |
+| Maraudon  | 30 |    46-55 | Desolace |
+| Temple of Atal'Hakkar | 45 | 55-60 | Swamp of Sorrows |
+| Blackrock Depths |    48 |    52-60 | Searing Gorge |
+| Lower Blackrock Spire | 48 | 55-60 | Burning Steppes |
+| Upper Blackrock Spire | 48 | 55-60 | Burning Steppes |
+| Dire Maul |	48 |	55-60 | Feralas |
+| Scholomance |	48 |	58-60 | Western Plaguelands |
+| Stratholme |	48 |	58-60 | Eastern Plaguelands |
 
 # Outland dungeons by level
 
