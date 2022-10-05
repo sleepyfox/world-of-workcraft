@@ -48,6 +48,8 @@
 
 # Northrend dungeons by level
 
+| Dungeon | Min level | Level range | Zone |
+| ------- | --------- | ----------- | ---- |
 | Utgarde Keep | 67 | 69-72 | Howling Fjord |
 | The Nexus | 67 | 69-73 | Borean Tundra |
 | Azjol-Nerub | 70 | 72-74 | Dragonblight |
